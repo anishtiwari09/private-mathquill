@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@anishtiwari09/mathquillss@^1.11.0":
+  "integrity" "sha512-fiq1BtA5Gl5srbOzEfeWQ3/MWuD7dszo2+PVmbBPI/6QK64zy5KUQwWqOqPtiqRhV6D4l64uUn9UenY3CzjBEQ=="
+  "resolved" "https://registry.npmjs.org/@anishtiwari09/mathquillss/-/mathquillss-1.11.0.tgz"
+  "version" "1.11.0"
+
 "ajv@^6.5.5":
   "integrity" "sha512-TXtUUEYHuaTEbLZWIKUr5pmBuhDLy+8KYtPYdcV8qC+pOZL+NKqYwvWSRrVXHn+ZmRRAu8vJTAznH7Oag6RVRw=="
   "resolved" "https://registry.npmjs.org/ajv/-/ajv-6.10.2.tgz"
